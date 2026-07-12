@@ -1,15 +1,17 @@
-# Java
-target/
-
-# Maven
-.mvn/wrapper/maven-wrapper.jar
-
 # Node
 node_modules/
+dist/
 
 # React
-dist/
-build/
+.vite/
+
+# Java
+target/
+*.class
+
+# IDE
+.idea/
+.vscode/
 
 # Logs
 *.log
@@ -17,12 +19,6 @@ build/
 # Environment
 .env
 .env.local
-
-# VS Code
-.vscode/
-
-# IntelliJ
-.idea/
 
 # OS
 .DS_Store
