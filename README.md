@@ -14,7 +14,7 @@
 
 ## 📸 Product Screenshots & Visual Demonstrations
 
-*(Place your screenshots in `docs/screenshots/` to display them here)*
+
 
 | **Operations Analytics Dashboard** | **Hierarchical File Explorer** |
 | :---: | :---: |
