@@ -1,25 +1,27 @@
-# Node
+# Node & React
 node_modules/
+**/node_modules/
 dist/
-
-# React
+**/dist/
 .vite/
+**/.vite/
 
 # Java
 target/
+**/target/
 *.class
+
+# Storage
+vaultflow_data/
+**/vaultflow_data/
 
 # IDE
 .idea/
 .vscode/
 
-# Logs
+# Logs & Temp
 *.log
-
-# Environment
 .env
 .env.local
-
-# OS
 .DS_Store
 Thumbs.db
